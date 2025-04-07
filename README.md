@@ -1,7 +1,7 @@
 # AI-Powered 3D Artifact Restoration using Deep Learning and Reinforcement Learning
 
 > **Google Summer of Code 2025 Proposal by Krisha**  
-> Mentoring Organization: [Insert Org Name]  
+> Mentoring Organization: HumunAI  
 > Proposal Title: AI-Powered Automated Fragment Assembly for Archaeological Artifacts
 
 Self Link: [View GSoC Proposal Draft](https://docs.google.com/document/d/1BR_sT1uy2y7naR4cjwOBEyf9LWreRg46xk2Poz9yhgk/edit?usp=sharing)
