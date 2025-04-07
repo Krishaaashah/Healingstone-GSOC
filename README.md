@@ -4,7 +4,7 @@
 > Mentoring Organization: [Insert Org Name]  
 > Proposal Title: AI-Powered Automated Fragment Assembly for Archaeological Artifacts
 
-Self Link: [View GSoC Proposal Draft](https://docs.google.com/document/d/1BR_sT1uy2y7naR4cjwOBEyf9LWreRg46xk2Poz9yhgk/edit?usp=sharing)
+Self Link: [View GSoC Proposal Draft]()
 
 ---
 
